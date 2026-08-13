@@ -1,0 +1,11 @@
+id,name,crew,role,bounty,devil_fruit,haki,alive
+1,Monkey D. Luffy,Straw Hat Pirates,Captain,3000000000,Gomu Gomu no Mi,"Observation|Armament|Conqueror's",true
+2,Roronoa Zoro,Straw Hat Pirates,Swordsman,1111000000,,"Observation|Armament|Conqueror's",true
+3,Nami,Straw Hat Pirates,Navigator,366000000,,"",true
+4,Usopp,Straw Hat Pirates,Sniper,500000000,,"Observation",true
+5,Sanji,Straw Hat Pirates,Cook,1032000000,,"Observation|Armament",true
+6,Tony Tony Chopper,Straw Hat Pirates,Doctor,1000,Hito Hito no Mi,"",true
+7,Nico Robin,Straw Hat Pirates,Archaeologist,930000000,Hana Hana no Mi,"",true
+8,Franky,Straw Hat Pirates,Shipwright,394000000,,"",true
+9,Brook,Straw Hat Pirates,Musician,383000000,Yomi Yomi no Mi,"",true
+10,Jinbe,Straw Hat Pirates,Helmsman,1100000000,,"Observation|Armament",true

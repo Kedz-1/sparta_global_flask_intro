@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Monkey D. Luffy",
+        "crew": "Straw Hat Pirates",
+        "role": "Captain",
+        "bounty": 3000000000,
+        "devil_fruit": "Gomu Gomu no Mi",
+        "haki": ["Observation", "Armament", "Conqueror's"],
+        "alive": true
+    },
+    {
+        "id": 2,
+        "name": "Roronoa Zoro",
+        "crew": "Straw Hat Pirates",
+        "role": "Swordsman",
+        "bounty": 1111000000,
+        "devil_fruit": null,
+        "haki": ["Observation", "Armament", "Conqueror's"],
+        "alive": true
+    },
+    {
+        "id": 3,
+        "name": "Nami",
+        "crew": "Straw Hat Pirates",
+        "role": "Navigator",
+        "bounty": 366000000,
+        "devil_fruit": null,
+        "haki": [],
+        "alive": true
+    },
+    {
+        "id": 4,
+        "name": "Usopp",
+        "crew": "Straw Hat Pirates",
+        "role": "Sniper",
+        "bounty": 500000000,
+        "devil_fruit": null,
+        "haki": ["Observation"],
+        "alive": true
+    },
+    {
+        "id": 5,
+        "name": "Sanji",
+        "crew": "Straw Hat Pirates",
+        "role": "Cook",
+        "bounty": 1032000000,
+        "devil_fruit": null,
+        "haki": ["Observation", "Armament"],
+        "alive": true
+    },
+    {
+        "id": 6,
+        "name": "Tony Tony Chopper",
+        "crew": "Straw Hat Pirates",
+        "role": "Doctor",
+        "bounty": 1000,
+        "devil_fruit": "Hito Hito no Mi",
+        "haki": [],
+        "alive": true
+    },
+    {
+        "id": 7,
+        "name": "Nico Robin",
+        "crew": "Straw Hat Pirates",
+        "role": "Archaeologist",
+        "bounty": 930000000,
+        "devil_fruit": "Hana Hana no Mi",
+        "haki": [],
+        "alive": true
+    },
+    {
+        "id": 8,
+        "name": "Franky",
+        "crew": "Straw Hat Pirates",
+        "role": "Shipwright",
+        "bounty": 394000000,
+        "devil_fruit": null,
+        "haki": [],
+        "alive": true
+    },
+    {
+        "id": 9,
+        "name": "Brook",
+        "crew": "Straw Hat Pirates",
+        "role": "Musician",
+        "bounty": 383000000,
+        "devil_fruit": "Yomi Yomi no Mi",
+        "haki": [],
+        "alive": true
+    },
+    {
+        "id": 10,
+        "name": "Jinbe",
+        "crew": "Straw Hat Pirates",
+        "role": "Helmsman",
+        "bounty": 1100000000,
+        "devil_fruit": null,
+        "haki": ["Observation", "Armament"],
+        "alive": true
+    }
+]
