@@ -5,7 +5,7 @@
 2. Create an instance, giving it a unique name
 3. Choose the image i.e Ubuntu and setup accordingly, RAM requirements etc
 4. Set up key pair (see below for more detail)
-5. Confirm secuirty group details
+5. Confirm secuirty group details (access from anywhere with port 5000 so app can work with ec2)
 
 
 ## Set up key/pair
@@ -24,7 +24,7 @@
 1. sudo apt update
 2. sudo apt upgrade
 3. sudo apt install python3.14-venv
-4. python3 venv venv
+4. python3 -m venv venv
 5. source venv/bin/activate 
 
 ## Clone repository 
@@ -32,4 +32,11 @@
 1. Go to github and get repository ensuring it's public - otherwise steps differ if repo is private.
 2. git clone *repo*
 3. cd *repo*
+
+## Install dependencies
+1. pip install requirements.txt
+
+## Run app
+1. cd src
+2. python basic_app.py 
 
