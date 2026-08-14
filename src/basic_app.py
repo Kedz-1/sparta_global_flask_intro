@@ -22,7 +22,7 @@ def hello_world():
 @app.route('/characters', methods=['GET'])
 def send_json():
 
-    return jsonify(characters.to_dict())
+    return jsonify(characters.to_dict(orient='records'))
 
 if __name__ == '__main__':
     app.run(debug=True)
